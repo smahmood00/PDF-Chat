@@ -8,7 +8,6 @@ A full-stack application that allows users to upload PDFs, process them using Az
 - File upload interface
 - Chat interface
 - Real-time response display
-- Split-screen layout (30% upload, 70% chat)
 
 ### Backend (Node.js/Express)
 - PDF processing with background jobs
@@ -149,6 +148,3 @@ npm run dev
    - Verify API key and endpoints
    - Check deployment names match your Azure setup
 
-## License
-
-ISC License
